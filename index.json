@@ -1,0 +1,77 @@
+{
+  "commit" : "15c72542ddc555898446bbe60c70ce00c5c532a1",
+  "entries" : [
+    {
+      "bytes" : 1306,
+      "minApp" : "1.2.0",
+      "minReader" : 1,
+      "order" : 1,
+      "platform" : "phone",
+      "requiresPro" : false,
+      "sha256" : "9af4526376e8be0f39c242795ffad0cc8e955c8e3ee69b7dc0f396b287cf5044",
+      "slug" : "folien-fernbedienung",
+      "title" : {
+        "de" : "Folien-Fernbedienung",
+        "en" : "Slide remote"
+      }
+    },
+    {
+      "bytes" : 2297,
+      "minApp" : "1.2.0",
+      "minReader" : 1,
+      "order" : 2,
+      "platform" : "phone",
+      "requiresPro" : true,
+      "sha256" : "570df6bf2747a8de2eb5c018c986cad7180e971161d63c425e4eef7c75aa2848",
+      "slug" : "praesentation-medien",
+      "title" : {
+        "de" : "Präsentation und Medien",
+        "en" : "Presentation and media"
+      }
+    },
+    {
+      "bytes" : 4306,
+      "minApp" : "1.2.0",
+      "minReader" : 1,
+      "order" : 3,
+      "platform" : "phone",
+      "requiresPro" : true,
+      "sha256" : "cf6c84b935270ab1af4c2925b9fe432c8058ee2df1928fde30aadfe129725ece",
+      "slug" : "zahlenblock-ebenen",
+      "title" : {
+        "de" : "Zahlenblock mit Pfeilen",
+        "en" : "Number pad with arrows"
+      }
+    },
+    {
+      "bytes" : 3864,
+      "minApp" : "1.2.0",
+      "minReader" : 1,
+      "order" : 4,
+      "platform" : "phone",
+      "requiresPro" : true,
+      "sha256" : "53eb84278f8c029a5bf78ce9f72adb0894f70005c7839516db2c81e23f5ff5fb",
+      "slug" : "editor-kuerzel",
+      "title" : {
+        "de" : "Editor-Kürzel",
+        "en" : "Editor shortcuts"
+      }
+    },
+    {
+      "bytes" : 13600,
+      "minApp" : "1.2.0",
+      "minReader" : 1,
+      "order" : 5,
+      "platform" : "phone",
+      "requiresPro" : true,
+      "sha256" : "14049fe44b9b52f256458eb7b6f2844cbd218ce02db6bf9d0b1db44a2903860a",
+      "slug" : "deutsche-tastatur-quer",
+      "title" : {
+        "de" : "Deutsche Tastatur (quer)",
+        "en" : "German keyboard (landscape)"
+      }
+    }
+  ],
+  "format" : "remopad.catalog",
+  "formatVersion" : 1
+}
