@@ -1,0 +1,11 @@
+{
+  "license" : "CC0",
+  "minApp" : "1.2.0",
+  "order" : 5,
+  "schema" : 1,
+  "slug" : "deutsche-tastatur-quer",
+  "title" : {
+    "de" : "Deutsche Tastatur (quer)",
+    "en" : "German keyboard (landscape)"
+  }
+}

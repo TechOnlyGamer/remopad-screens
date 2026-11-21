@@ -1,0 +1,19 @@
+{
+  "entries" : [
+    {
+      "labels" : [
+        "chord:launchpad",
+        "modifier:appSwitcher",
+        "modifier:closeWindow",
+        "modifier:hideApp",
+        "modifier:moveToTrash",
+        "modifier:quitApp",
+        "modifier:screenshot",
+        "modifier:spotlight"
+      ],
+      "sha256" : "14049fe44b9b52f256458eb7b6f2844cbd218ce02db6bf9d0b1db44a2903860a",
+      "slug" : "deutsche-tastatur-quer"
+    }
+  ],
+  "schema" : 1
+}

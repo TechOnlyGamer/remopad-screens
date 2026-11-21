@@ -1,0 +1,11 @@
+{
+  "license" : "CC0",
+  "minApp" : "1.2.0",
+  "order" : 3,
+  "schema" : 1,
+  "slug" : "zahlenblock-ebenen",
+  "title" : {
+    "de" : "Zahlenblock mit Pfeilen",
+    "en" : "Number pad with arrows"
+  }
+}

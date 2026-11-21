@@ -1,0 +1,11 @@
+{
+  "license" : "CC0",
+  "minApp" : "1.2.0",
+  "order" : 1,
+  "schema" : 1,
+  "slug" : "folien-fernbedienung",
+  "title" : {
+    "de" : "Folien-Fernbedienung",
+    "en" : "Slide remote"
+  }
+}
