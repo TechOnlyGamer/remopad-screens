@@ -1,0 +1,11 @@
+{
+  "license" : "CC0",
+  "minApp" : "1.2.0",
+  "order" : 7,
+  "schema" : 1,
+  "slug" : "meetings-zoom-teams-meet",
+  "title" : {
+    "de" : "Meetings: Zoom, Teams, Meet",
+    "en" : "Meetings: Zoom, Teams, Meet"
+  }
+}

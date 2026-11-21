@@ -11,8 +11,18 @@
         "modifier:screenshot",
         "modifier:spotlight"
       ],
-      "sha256" : "14049fe44b9b52f256458eb7b6f2844cbd218ce02db6bf9d0b1db44a2903860a",
+      "sha256" : "36eac1075ec639861e3066ad7cd09b820d32407f6bdb889a9bbe331f3ecd3966",
       "slug" : "deutsche-tastatur-quer"
+    },
+    {
+      "labels" : [
+        "chord:appSwitcher",
+        "chord:launchpad",
+        "chord:screenshot",
+        "chord:spotlight"
+      ],
+      "sha256" : "a644e461aae9ee99a861caaf0d025405ad323a4c7a0cde5b1a5ca7781735c354",
+      "slug" : "mac-steuerung"
     }
   ],
   "schema" : 1
