@@ -1,5 +1,5 @@
 {
-  "commit" : "86d4169382e33ccc5ff59afe1ece9974ea22e9e5",
+  "commit" : "80d8359d39dc36f8ecf771d43d287f570fe8034f",
   "entries" : [
     {
       "bytes" : 1252,
@@ -97,6 +97,20 @@
       "title" : {
         "de" : "Meetings: Zoom, Teams, Meet",
         "en" : "Meetings: Zoom, Teams, Meet"
+      }
+    },
+    {
+      "bytes" : 9923,
+      "minApp" : "1.2.0",
+      "minReader" : 1,
+      "order" : 8,
+      "platform" : "phone",
+      "requiresPro" : true,
+      "sha256" : "0e3d85c9a7950b1e1d2efbb5ed6d50f09b2e6a8fabfcabdb3666aa6e919293cc",
+      "slug" : "mac-deck",
+      "title" : {
+        "de" : "Mac-Deck",
+        "en" : "Mac Deck"
       }
     }
   ],
