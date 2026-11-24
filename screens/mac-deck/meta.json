@@ -1,0 +1,11 @@
+{
+  "license" : "CC0",
+  "minApp" : "1.2.0",
+  "order" : 8,
+  "schema" : 1,
+  "slug" : "mac-deck",
+  "title" : {
+    "de" : "Mac-Deck",
+    "en" : "Mac Deck"
+  }
+}

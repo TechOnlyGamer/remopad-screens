@@ -17,6 +17,18 @@
     {
       "labels" : [
         "chord:appSwitcher",
+        "chord:closeWindow",
+        "chord:hideApp",
+        "chord:quitApp",
+        "chord:screenshot",
+        "chord:spotlight"
+      ],
+      "sha256" : "0e3d85c9a7950b1e1d2efbb5ed6d50f09b2e6a8fabfcabdb3666aa6e919293cc",
+      "slug" : "mac-deck"
+    },
+    {
+      "labels" : [
+        "chord:appSwitcher",
         "chord:launchpad",
         "chord:screenshot",
         "chord:spotlight"
