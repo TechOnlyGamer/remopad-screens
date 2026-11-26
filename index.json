@@ -1,5 +1,5 @@
 {
-  "commit" : "80d8359d39dc36f8ecf771d43d287f570fe8034f",
+  "commit" : "af97c33239833b6bc2ecc84dd40d4416b6e2de7b",
   "entries" : [
     {
       "bytes" : 1252,
@@ -111,6 +111,21 @@
       "title" : {
         "de" : "Mac-Deck",
         "en" : "Mac Deck"
+      }
+    },
+    {
+      "bytes" : 70442,
+      "minApp" : "1.2.2",
+      "minReader" : 3,
+      "order" : 8,
+      "platform" : "phone",
+      "requiresPro" : true,
+      "sha256" : "2be9110a4c3db9d09b8a16d737c6d3c0594e0db39045ca7b4987ff458ad39220",
+      "slug" : "mac-deck-bilder",
+      "supersedes" : "mac-deck",
+      "title" : {
+        "de" : "Mac-Deck mit Bildern",
+        "en" : "Mac Deck with pictures"
       }
     }
   ],
