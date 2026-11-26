@@ -9,7 +9,7 @@ Ready-made screens for the [RemoPad](https://remopad.pages.dev) iPhone app (Sett
 - `screens/<slug>/` – `<slug>.remopadscreen`, `meta.json` und Vorschaubilder `preview-*.png`.
 - `tools/accepted-risks.json` – vom Maintainer freigegebene Tastenkombinationen, an den Hash der Datei gebunden.
 
-Die Dateien enthalten nur Daten (Tasten, feste Aktionen, Beschriftungen), keinen Code. Erzeugt und geprüft mit
+Die Dateien enthalten nur Daten (Tasten, feste Aktionen, Beschriftungen und Bilder als Pixeldaten), keinen Code. Erzeugt und geprüft mit
 `remopad-screen-tool` (`generate`, `validate`, `build-index`).
 
 Lizenz / License: alle Screens [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).

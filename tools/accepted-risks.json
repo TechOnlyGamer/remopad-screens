@@ -1,7 +1,7 @@
 {
-  "entries" : [
+  "entries": [
     {
-      "labels" : [
+      "labels": [
         "chord:launchpad",
         "modifier:appSwitcher",
         "modifier:closeWindow",
@@ -11,11 +11,11 @@
         "modifier:screenshot",
         "modifier:spotlight"
       ],
-      "sha256" : "36eac1075ec639861e3066ad7cd09b820d32407f6bdb889a9bbe331f3ecd3966",
-      "slug" : "deutsche-tastatur-quer"
+      "sha256": "36eac1075ec639861e3066ad7cd09b820d32407f6bdb889a9bbe331f3ecd3966",
+      "slug": "deutsche-tastatur-quer"
     },
     {
-      "labels" : [
+      "labels": [
         "chord:appSwitcher",
         "chord:closeWindow",
         "chord:hideApp",
@@ -23,19 +23,31 @@
         "chord:screenshot",
         "chord:spotlight"
       ],
-      "sha256" : "0e3d85c9a7950b1e1d2efbb5ed6d50f09b2e6a8fabfcabdb3666aa6e919293cc",
-      "slug" : "mac-deck"
+      "sha256": "0e3d85c9a7950b1e1d2efbb5ed6d50f09b2e6a8fabfcabdb3666aa6e919293cc",
+      "slug": "mac-deck"
     },
     {
-      "labels" : [
+      "labels": [
         "chord:appSwitcher",
         "chord:launchpad",
         "chord:screenshot",
         "chord:spotlight"
       ],
-      "sha256" : "a644e461aae9ee99a861caaf0d025405ad323a4c7a0cde5b1a5ca7781735c354",
-      "slug" : "mac-steuerung"
+      "sha256": "a644e461aae9ee99a861caaf0d025405ad323a4c7a0cde5b1a5ca7781735c354",
+      "slug": "mac-steuerung"
+    },
+    {
+      "labels": [
+        "chord:appSwitcher",
+        "chord:closeWindow",
+        "chord:hideApp",
+        "chord:quitApp",
+        "chord:screenshot",
+        "chord:spotlight"
+      ],
+      "sha256": "2be9110a4c3db9d09b8a16d737c6d3c0594e0db39045ca7b4987ff458ad39220",
+      "slug": "mac-deck-bilder"
     }
   ],
-  "schema" : 1
+  "schema": 1
 }

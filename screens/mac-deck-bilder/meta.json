@@ -1,0 +1,12 @@
+{
+  "license" : "CC0",
+  "minApp" : "1.2.2",
+  "order" : 8,
+  "schema" : 1,
+  "slug" : "mac-deck-bilder",
+  "supersedes" : "mac-deck",
+  "title" : {
+    "de" : "Mac-Deck mit Bildern",
+    "en" : "Mac Deck with pictures"
+  }
+}
